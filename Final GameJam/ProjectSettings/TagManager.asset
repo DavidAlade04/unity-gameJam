@@ -2,7 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Ground
   - 
   - 
   - 
@@ -41,3 +41,26 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: New Layer 1
+    uniqueID: 928757705
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 647525445
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 3607503327
+    locked: 0
+  - name: New Layer 4
+    uniqueID: 3666467015
+    locked: 0
+  - name: New Layer 5
+    uniqueID: 1379420791
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 4293839243
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 3323787059
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: abeb8901fdac026448ed2517ba58b36c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300566
+  packageName: 2D-Parallax Backgrounds
+  packageVersion: 1.0.0
+  assetPath: Assets/Mero Store Studios/2D-Parallax Backgrounds/scripts/LOOPINGSPEEDMANAGER.cs
+  uploadId: 703027
